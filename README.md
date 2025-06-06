@@ -14,4 +14,4 @@
 
 ## 3. Set The Workspace and Env on Local Machine For Local Execution Terraform Code
 
-scalr update-workspace -environment-id=  -workspace= -name= -execution-mode=local
+ > scalr update-workspace -environment-id=  -workspace= -name= -execution-mode=local
